@@ -1,0 +1,4 @@
+Tela de Login:
+(botao)	Sign in
+(botao) Sign up
+"Esquceu sua senha?" >>> E-mail de recuperação (botao enviar)
