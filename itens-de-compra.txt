@@ -1,2 +1,3 @@
 Iicio itens-de-compra
+simulação conflito
 Final itens-de-compra
